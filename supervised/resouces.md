@@ -6,7 +6,7 @@
 
 [Basics of Ensemble Learning Explained in Simple English] (https://www.analyticsvidhya.com/blog/2015/08/introduction-ensemble-learning/)
 
-[Gradient Boosting explained (Interactive demo) ] (Gradient Boosting explained )
+[Gradient Boosting explained (Interactive demo) ] (http://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html )
 
 [What is an intuitive explanation of Gradient Boosting?] ( https://www.quora.com/What-is-an-intuitive-explanation-of-Gradient-Boosting )
 
